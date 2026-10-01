@@ -4,6 +4,8 @@ An end-to-end browser automation, written as an independent project, that comple
 
 ▶️ **[Watch the 39-second explainer](demo/explainer.mp4)**
 
+https://github.com/user-attachments/assets/d8e752ff-2540-4074-aec1-42a89427a7be
+
 ## How it works
 
 1. **Fill:** Playwright drives a real Chrome browser and fills the signup form (email, password, date of birth, name, username) using accessibility-role selectors (`getByRole`) instead of brittle CSS.
