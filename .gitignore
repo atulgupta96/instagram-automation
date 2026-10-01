@@ -1,0 +1,18 @@
+node_modules/
+.DS_Store
+
+# Secrets — never commit
+credentials.json
+token.json
+.env*
+
+# Account data (emails + passwords)
+data/accounts.csv
+
+# Playwright artifacts (can contain screenshots/videos of filled forms)
+playwright-report/
+test-results/
+blob-report/
+
+# Video project workspace (render output copied to demo/)
+videos/
