@@ -1,5 +1,5 @@
 {
-  "name": "instagram-automation",
+  "name": "signup-otp-automation",
   "version": "1.0.0",
   "description": "Playwright + Gmail API automation of a web signup flow, including email OTP verification",
   "scripts": {
