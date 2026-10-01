@@ -2,7 +2,7 @@
 
 An end-to-end browser automation, written as an independent project, that completes a multi-step web signup with no human input. That includes reading the one-time code from the verification email.
 
-▶️ **[Watch the 40-second explainer](demo/explainer.mp4)**
+▶️ **[Watch the 39-second explainer](demo/explainer.mp4)**
 
 ## How it works
 
